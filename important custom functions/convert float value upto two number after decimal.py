@@ -1,0 +1,1 @@
+pd.options.display.float_format = "{:,.2f}".format

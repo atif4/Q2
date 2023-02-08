@@ -1,0 +1,1 @@
+df['age'].fillna(df['age'].mean(), inplace=True)

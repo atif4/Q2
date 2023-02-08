@@ -1,0 +1,1 @@
+df['Year'] = pd.to_datetime(df['Year'], format='%Y').dt.year # just year 

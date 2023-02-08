@@ -1,0 +1,1 @@
+new_df.drop(['lunch','test preparation course','race/ethnicity','parental level of education'] ,axis = 1 , inplace=True)

@@ -1,0 +1,1 @@
+df[df.isnull().any(axis=1)] # to get all nan of rows 
