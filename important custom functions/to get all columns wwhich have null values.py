@@ -1,1 +1,0 @@
-df.loc[:, df.isna().any()] # to get all columns wwhich have null values 
