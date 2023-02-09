@@ -1,1 +1,0 @@
-df['EST']=df['EST'].astype('datetime64[ns]')
