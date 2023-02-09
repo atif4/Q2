@@ -1,1 +1,0 @@
-print(f"Shape of X train: {X_train.shape}\nShape of y train: {y_train.shape}\nShape of X test: {X_test.shape}\nShape of y test: {y_test.shape}")
